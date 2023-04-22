@@ -28,9 +28,12 @@ const Navbar = () => {
             </li>
         ))}
         </ul>
+        <div className="sm:hidden flex flex-1 justify-end items-center">
+          <img src={menu} alt="menu" className="w-[28px] h-[28px] object-contain cursor-pointer" />
+        </div>
       </div>
     </nav>
   )
 }
 
-export default Navbar
+export default Navbar;
