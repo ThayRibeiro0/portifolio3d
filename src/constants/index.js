@@ -19,9 +19,10 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
+    chatapp1,
+    validaregister,
+    todoapp,
+    pygym,
     threejs,
   } from "../assets";
   
@@ -178,58 +179,41 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Chatapp1",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-chat that allows users have a conversation safe and efficient.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "html",
           color: "pink-text-gradient",
         },
+        {
+          name: "css",
+          color: "white-text-gradient",
+        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: chatapp1,
+      source_code_link: "https://github.com/ThayRibeiro0/chatapp1.git",
     },
     {
-      name: "Job IT",
+      name: "ValidaRegister",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application to collect the data and to validate them so that are faithful to what was required in the input and that they work correctly.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
+          name: "html",
           color: "green-text-gradient",
         },
         {
@@ -237,8 +221,66 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: validaregister,
+      source_code_link: "https://github.com/ThayRibeiro0/validform.git",
+    },
+    {
+      name: "TodoApp",
+      description:
+        "Web Application which aims to help in the organization of daily tasks.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "html",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "white-text-gradient",
+        },
+      ],
+      image: todoapp,
+      source_code_link: "https://github.com/ThayRibeiro0/TodoApp.git",
+    },
+    {
+      name: "Pygym",
+      description:
+        "Final Project CS50 that has the purpose of allow the employee of the gym register the students that use the gym and the admins have a control about who acess this datas, can this admins register new employees, edit or delete.",
+      tags: [
+        {
+          name: "python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "html",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "white-text-gradient",
+        },
+        {
+          name: "flask",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "sql",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: pygym,
+      source_code_link: "https://github.com/ThayRibeiro0/PyGym.git",
     },
   ];
   
