@@ -153,8 +153,8 @@ import {
   const testimonials = [
     {
       testimonial:
-        "...",
-      name: "...",
+        "Open to one new",
+      name: "Me",
       designation: "...",
       company: "...",
       image: "",
