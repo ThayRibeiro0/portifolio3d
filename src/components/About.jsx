@@ -35,6 +35,7 @@ const ServiceCard = ( { index, title, icon }) => {
 
 const About = () => {
   return (
+    <section className="relative w-full h-screen mx-auto">
     <>
       <motion.div variants={textVariant()}>
       <p className={styles.sectionSubText}>Introduction</p>
@@ -54,6 +55,7 @@ const About = () => {
         ))}
       </div>
     </>
+    </section>
   )
 }
 
