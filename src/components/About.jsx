@@ -7,6 +7,7 @@ import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
 import { SectionWrapper } from '../hoc';
+import Pdf from '../assets/Thays Moia Ribeiro - Presentation Letter and Resume.pdf';
 
 const ServiceCard = ( { index, title, icon }) => {
   return(
@@ -47,6 +48,12 @@ const About = () => {
       >
       I'm a skilled software developer with experience in in so many areas (as sales, law, administrative, cleaner, banker, aupair) and with code in HTML, CSS, Javascript, Python, React, Three.js, Node, Express, PHP, C, JAVA, Raspberry PI and and Aplications, Handlebars, SQL, Android Studio, GitHub, Visual Studio Code, Codespaces, Web Systems Project, Programming Logic, Portugol and others, while also being an aupair.
       Phase: "Continue learning by myself."(Unknown author)
+      <h2 className={styles.sectionCVText}>
+        <a href = {Pdf} target = "_blank">Download my Curriculum 📋</a>
+      </h2>
+      <h2 className={styles.sectionCVText}>
+        <a href = "https://www.linkedin.com/in/thays-moia-ribeiro-82647987/" target = "_blank">LinkedLn 🕵🏾‍♀️</a>
+      </h2>
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
