@@ -153,11 +153,19 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Open to one new",
-      name: "Me",
-      designation: "...",
-      company: "...",
-      image: "",
+        "I had the pleasure of working with Thays in a multinational company for a long time, being an apprentice of her teachings. An incredible professional that every company should have, super attentive, thoughtful. Has a technical skill in several tools, knows how to work under pressure and with bulky projects. Always ready to learn and teach.",
+      name: "Mayara Rodrigues",
+      designation: "Associate",
+      company: "PwC Brasil",
+      image: "/src/assets/Mayara.jpeg",
+    },
+    {
+      testimonial:
+        "Very dedicated and dedicated professional. I had the privilege of having her by my side for a period of time... she was always kind, open to suggestions and, above all, responsible for carrying out any task or case. Success and guarantee always!",
+      name: "Aneliza Ulian Zuccarato",
+      designation: "Lawyer",
+      company: "Loeser e Portela Advogados",
+      image: "/src/assets/Aneliza.jpeg",
     },
   ];
   
