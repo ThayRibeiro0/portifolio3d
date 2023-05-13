@@ -7,7 +7,7 @@ import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
 import { SectionWrapper } from '../hoc';
-import Pdf from '../assets/Thays Moia Ribeiro - Presentation Letter and Resume.pdf';
+import Pdf from '../assets/Thays Moia Ribeiro - CV.pdf';
 
 const ServiceCard = ( { index, title, icon }) => {
   return(
