@@ -11,8 +11,8 @@ One short description about what it is this project and for who it is will be on
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Javascript/total?logo=Javascript" />
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  />
-    <img src="https://img.shields.io/badge/CSS-darkred-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-239120?&logo=html5&logoColor=white&style=flat"  />
+    <img src="https://img.shields.io/badge/CSS-darkred-239120?&logo=css3&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
     <img src="">
 </p>
