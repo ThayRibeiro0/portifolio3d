@@ -13,7 +13,7 @@ One short description about what it is this project and for who it is will be on
     <img src="https://img.shields.io/badge/-Javascript/total?logo=Javascript" />
     <img src="https://img.shields.io/badge/Html-purple"  />
     <img src="https://img.shields.io/badge/Css-darkred" />
-    <img src="https://img.shields.io/badge/-React/total?logo=Python" >
+    <img src="https://img.shields.io/badge/React/total?logo=Python" >
     <img src="https://img.shields.io/badge/SQL-pink" />
     <img src="https://img.shields.io/badge/-Flask/total?logo=Flask" />
 </p>
