@@ -17,13 +17,11 @@ One short description about what it is this project and for who it is will be on
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 
-## Video Demo: <https://youtu.be/UXD7D4jK85M>
+## Video Demo: <>
 
 
 ## Description
@@ -48,6 +46,7 @@ The things that you need to run to see the portifolio it is [npm install] and [n
 The project use the vite, tailwindcss, node_modules,gitignore, javascript.jsx and javascript.js, react, three.js, html, css and installation, netlify to host the page; The Vite.js is a lightweight and fast JavaScript framework that is primarily used for building web applications with highly efficient and productive development experience, facilite the construction of web server and it is possible see the project run [npm run dev]. The Tailwindcss is a popular utility-first CSS framework that quickly build and style user interfaces for web projects, provides a set of pre-defined CSS class that can be use to style the HTML. The node_modules directory is a folder commonly found in Node.js projects that it is automatically created when you use package managers like npm (Node Package Manager) or Yarn to install dependencies for your Node.js project run. The gitignore file is a configuration file used by Git, a version control system, to determine which files and directories should be ignored and not tracked by Git. Javascript.jsx and Javascript.js have differences and one then is the former indicates the presence of JSX syntax, primarily used in React, a popular JavaScript library for building user interfaces, or similar libraries, while the latter denotes regular JavaScript code without JSX. JSX (JavaScript XML) is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. React is a Javascript-based UI development library widely used in web development. Three.js is a Javascript-based WebGL engine, one library, that can run GPU-powered games and other graphics-powered apps straight from the browser and provides many features and APIs for drawing 3D scenes in your browser. Html(Hypertect Markup Language) is a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web(www) pages. Css is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. Netlify is a remote-first cloud computing company that offer a development platform thta includes build, deploy and serveless backend services for web applications and dynamic websites. This way it was possible explain what the projects contains and does in summary.
 
 ## Referência
+- [Awesome Badges] - Badges to the Readme github - (https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Emailjs service] - Website that allows you to send emails directly from client-side JavaScript code. It provides an API and SDKs (Software Development Kits) that enable developers to send emails without the need for a server-side backend - (https://emailjs.com/)
 - [Github]
 - [Google Images]
