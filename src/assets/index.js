@@ -30,10 +30,14 @@ import chatapp1 from "./chatapp1.png";
 import validaregister from "./validaregister.png";
 import todoapp from "./todoapp.png";
 import pygym from "./pygym.png";
+import guessnumber from "./guessnumber.png";
+import project1 from "./project1.png";
 
 export {
   logo,
   backend,
+  guessnumber,
+  project1,
   creator,
   mobile,
   web,
