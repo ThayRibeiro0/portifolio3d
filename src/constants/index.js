@@ -289,27 +289,27 @@ import {
       image: guessnumber,
       source_code_link: "https://github.com/ThayRibeiro0/Guess_Number",
     },
-    {
-      name: "Project1",
-      description:
-      "Prototype Web Application to scheduling services to aesthetic clinics firstly, but can be used to all kind of company to works with the appointments to better controls of your calls. This project is a final assignment of the first semester of the System Development Associate Course.",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "css",
-          color: "green-text-gradient",
-        },
-        {
-          name: "sql",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: project1,
-      source_code_link: "https://github.com/ThayRibeiro0/Guess_Number",
-    },
+    // {
+    //   name: "Project1",
+    //   description:
+    //   "Prototype Web Application to scheduling services to aesthetic clinics firstly, but can be used to all kind of company to works with the appointments to better controls of your calls. This project is a final assignment of the first semester of the System Development Associate Course.",
+    //   tags: [
+    //     {
+    //       name: "html",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "sql",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: project1,
+    //   source_code_link: "https://github.com/ThayRibeiro0/Guess_Number",
+    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
