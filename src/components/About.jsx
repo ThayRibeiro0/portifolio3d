@@ -54,6 +54,9 @@ const About = () => {
       <h2 className={styles.sectionCVText}>
         <a href = "https://www.linkedin.com/in/thays-moia-ribeiro-82647987/" target = "_blank">LinkedLn 🕵🏾‍♀️</a>
       </h2>
+      <h2 className={styles.sectionCVText}> 
+        <a href = "https://github.com/ThayRibeiro0" target = "_blank">Github 💻</a>
+      </h2>
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
