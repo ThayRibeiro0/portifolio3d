@@ -52,7 +52,7 @@ const About = () => {
         <a href = {Pdf} target = "_blank">Download my Curriculum 📋</a>
       </h2>
       <h2 className={styles.sectionCVText}>
-        <a href = "https://www.linkedin.com/in/thays-moia-ribeiro-82647987/" target = "_blank">LinkedLn 🕵🏾‍♀️</a>
+        <a href = "https://www.linkedin.com/in/thays-moia-ribeiro-475b39275/" target = "_blank">LinkedLn 🕵🏾‍♀️</a>
       </h2>
       <h2 className={styles.sectionCVText}> 
         <a href = "https://github.com/ThayRibeiro0" target = "_blank">Github 💻</a>
